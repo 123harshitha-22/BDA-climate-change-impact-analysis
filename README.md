@@ -32,7 +32,9 @@ APIs for real-time updates and data access.
 
 
 #Potential Applications:
+
 Predicting climate-related disasters (e.g., floods, droughts).
 Monitoring compliance with environmental policies.
 Assisting governments and NGOs in resource management.
 Educating the public on climate change impacts.
+
